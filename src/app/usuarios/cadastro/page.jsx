@@ -1,7 +1,7 @@
 export default function Cadastro() {
   return (
 
-    <div className='container'>
+    <div className='containerGlobal'>
       <div>
         <h1>Cadastro de usuários</h1>
       </div>
