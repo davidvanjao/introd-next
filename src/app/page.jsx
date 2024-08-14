@@ -17,16 +17,16 @@ export default function Home() {
 
         <Image
           src="/arvore.png"
-          width={500}
-          height={500}
+          width={100}
+          height={100}
           alt="Imagem do autor"
           className="style.imagemHome"        
         />
 
         <Image
           src="/arvore.png"
-          width={500}
-          height={500}
+          width={1000}
+          height={1000}
           alt="Imagem do autor"
           className="style.imagemHome"        
         />

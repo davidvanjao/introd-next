@@ -139,6 +139,11 @@ body {
 	font-style: normal;
 }
 
+.layout {
+	width: 100%;
+	max-width: 112.8rem;
+}
+
 .containerGlobal {
 	width: 98%;
 	max-width: 112.8rem;
